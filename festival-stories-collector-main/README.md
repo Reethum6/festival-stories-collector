@@ -1,8 +1,8 @@
 # పండుగల కథల సేకరణ - Festival Story Collector
 
 ## Developers
-- S_Naresh_Sai_Aravind  
-- reethikareddy  
+- reethikareddy
+- S_Naresh_Sai_Aravind    
 - bhargavi_kankanala  
 - yashwanth_chowdary_19  
 - shravan97  
